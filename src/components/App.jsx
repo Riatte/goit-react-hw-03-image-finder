@@ -31,5 +31,5 @@ export class App extends Component {
         </div>
       </section>
     );
-  }
+  } 
 }
